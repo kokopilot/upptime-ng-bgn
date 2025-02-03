@@ -1,22 +1,20 @@
 [
   {
-    "name": "Meta",
-    "url": "https://www.meta.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.meta.com.ico",
-    "slug": "meta",
-    "status": "down",
-    "uptime": "5.01%",
-    "uptimeDay": "5.01%",
-    "uptimeWeek": "5.01%",
-    "uptimeMonth": "5.01%",
-    "uptimeYear": "5.01%",
-    "time": 554,
-    "timeDay": 554,
-    "timeWeek": 554,
-    "timeMonth": 554,
-    "timeYear": 554,
-    "dailyMinutesDown": {
-      "2025-02-03": 0
-    }
+    "name": "recursive-check",
+    "url": "https://kokopilot.github.io/upptime-ng-bgn/",
+    "icon": "https://icons.duckduckgo.com/ip3/kokopilot.github.io.ico",
+    "slug": "recursive-check",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 39,
+    "timeDay": 39,
+    "timeWeek": 39,
+    "timeMonth": 39,
+    "timeYear": 39,
+    "dailyMinutesDown": {}
   }
 ]

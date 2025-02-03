@@ -3,8 +3,8 @@ owner: kokopilot # Your GitHub organization or username, where this repository l
 repo: upptime-ng-bgn # The name of this repository
 
 sites:
-  - name: Meta
-    url: https://www.meta.com
+  - name: recursive-check
+    url: https://kokopilot.github.io/upptime-ng-bgn/
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80

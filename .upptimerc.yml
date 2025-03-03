@@ -5,6 +5,8 @@ repo: upptime-ng-bgn # The name of this repository
 sites:
   - name: recursive-check
     url: https://kokopilot.github.io/upptime-ng-bgn/
+  - name: ng-bgn
+    url: https://ng-bgn.onrender.com/
 
 # - name: IPv6 test
 #   url: forwardemail.net

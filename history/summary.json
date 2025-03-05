@@ -22,7 +22,7 @@
     "url": "https://ng-bgn.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ng-bgn.onrender.com.ico",
     "slug": "ng-bgn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 8854,
     "timeMonth": 8854,
     "timeYear": 8854,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-05": 0
+    }
   }
 ]

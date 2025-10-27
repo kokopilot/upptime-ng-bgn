@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 77,
-    "timeWeek": 139,
-    "timeMonth": 123,
+    "timeDay": 175,
+    "timeWeek": 142,
+    "timeMonth": 126,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ng-bgn.onrender.com.ico",
     "slug": "ng-bgn",
     "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.08%",
-    "time": 9061,
-    "timeDay": 10824,
-    "timeWeek": 9802,
+    "uptime": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 9087,
+    "timeDay": 10770,
+    "timeWeek": 9519,
     "timeMonth": 13489,
-    "timeYear": 9061,
+    "timeYear": 9087,
     "dailyMinutesDown": {
-      "2025-10-26": 11,
       "2025-10-24": 65,
       "2025-10-23": 22,
       "2025-10-21": 41,
@@ -98,7 +97,8 @@
       "2025-05-30": 34,
       "2025-05-29": 22,
       "2025-05-26": 20,
-      "2025-05-25": 15
+      "2025-05-25": 15,
+      "2025-05-22": 28
     }
   }
 ]

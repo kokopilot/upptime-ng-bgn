@@ -22,17 +22,17 @@
     "url": "https://ng-bgn.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ng-bgn.onrender.com.ico",
     "slug": "ng-bgn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "95.79%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "96.05%",
     "uptimeMonth": "97.00%",
     "uptimeYear": "99.19%",
-    "time": 8799,
+    "time": 8778,
     "timeDay": 12224,
-    "timeWeek": 8875,
-    "timeMonth": 8943,
-    "timeYear": 8799,
+    "timeWeek": 9688,
+    "timeMonth": 9056,
+    "timeYear": 8778,
     "dailyMinutesDown": {
       "2025-12-19": 63,
       "2025-12-18": 50,
@@ -99,8 +99,7 @@
       "2025-08-17": 303,
       "2025-08-13": 26,
       "2025-08-11": 17,
-      "2025-08-08": 30,
-      "2025-08-06": 22
+      "2025-08-08": 30
     }
   }
 ]

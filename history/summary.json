@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 84,
-    "timeWeek": 132,
-    "timeMonth": 171,
+    "timeDay": 179,
+    "timeWeek": 136,
+    "timeMonth": 173,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,17 @@
     "slug": "ng-bgn",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "95.24%",
-    "uptimeMonth": "95.41%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "96.03%",
+    "uptimeMonth": "95.52%",
     "uptimeYear": "99.22%",
-    "time": 8972,
-    "timeDay": 13119,
-    "timeWeek": 12953,
-    "timeMonth": 9701,
-    "timeYear": 8972,
+    "time": 8958,
+    "timeDay": 7585,
+    "timeWeek": 12537,
+    "timeMonth": 9619,
+    "timeYear": 8958,
     "dailyMinutesDown": {
-      "2026-01-05": 48,
+      "2026-01-05": 35,
       "2026-01-04": 89,
       "2026-01-03": 22,
       "2026-01-02": 92,
@@ -91,7 +91,7 @@
       "2025-10-21": 41,
       "2025-10-20": 34,
       "2025-10-16": 28,
-      "2025-10-14": 62
+      "2025-10-14": 86
     }
   }
 ]

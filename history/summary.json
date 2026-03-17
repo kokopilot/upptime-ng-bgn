@@ -22,17 +22,17 @@
     "url": "https://ng-bgn.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ng-bgn.onrender.com.ico",
     "slug": "ng-bgn",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "91.03%",
-    "uptimeWeek": "93.80%",
-    "uptimeMonth": "90.85%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "94.20%",
+    "uptimeMonth": "90.88%",
     "uptimeYear": "98.87%",
-    "time": 9343,
-    "timeDay": 11485,
-    "timeWeek": 9451,
-    "timeMonth": 11178,
-    "timeYear": 9361,
+    "time": 9355,
+    "timeDay": 10997,
+    "timeWeek": 9329,
+    "timeMonth": 11262,
+    "timeYear": 9373,
     "dailyMinutesDown": {
       "2026-03-17": 53,
       "2026-03-16": 130,
@@ -78,8 +78,7 @@
       "2026-01-25": 16,
       "2026-01-24": 44,
       "2026-01-22": 122,
-      "2026-01-21": 60,
-      "2026-01-20": 35
+      "2026-01-21": 60
     }
   }
 ]
